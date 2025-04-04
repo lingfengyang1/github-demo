@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log("abc")
 /**
  * github远程仓库操作方式一：
