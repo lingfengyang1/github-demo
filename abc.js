@@ -17,4 +17,6 @@ console.log("abc")
  * 当然 push.default除了simple和upstream这两个取值以外 也有一个比较常见的取值 即current 他的作用和simple很像 都是将本地分支推送到同名的远程分支 只不过 在没有找到的情况下 simple和current的处理方式不同 simple取值会直接报错 而current则是会在远程仓库中新建一个分支作为目标的远程分支在推送
  * 
  * git checkout -b xxx可以新建并切换分支
+ * 
+ * git tag xxx可以为某次重大提交进行版本标注 
  */
